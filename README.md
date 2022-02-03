@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaziz86
 - 👀 I’m interested in analytical and numerical modelling, blockchain technology (EVM, smart contracts)
-- 🌱 I’m currently learning Ethereum Solidity and Solana Rust
+- 🌱 I’m currently learning Ethereum's Solidity and Solana Rust
 - 💞️ I’m looking to collaborate on Web3 projects
 - 📫 You can reach me per email: gseidalinov@gmail.com
 
